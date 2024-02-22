@@ -5,7 +5,7 @@ This project is designed to scrape listing and detail pages from a website and s
 ## Setup
 
 1. **Clone the Repository**: 
-git clone https://github.com/claudioandriaan/web_scraping_python_test.git 
+git clone https://github.com/claudioandriaan/Python_web_scraping_test.git
 
 2. **Install Dependencies**:
 ```
